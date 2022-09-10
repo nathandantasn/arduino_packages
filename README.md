@@ -14,8 +14,6 @@ D1 		→		1		Vermelho LED
 D2 		→		1		Verde LED
 R4,R5 	  →	     	  2	  	       220 Ω Resistor
 
-<img href ="fotorresistor/Projeto Fotorresistor - 10_09.png"/>
-
 ### Sensor de Presença e Buzzer
 O sensor de presença é um equipamento que utiliza tecnologia de detecção, e sua função é perceber e detectar um certo tipo de energia e sua variação.
 Buzzer é um dispositivo para geração de sinais sonoros (beeps), como aqueles encontrados em computadores. Para a emissão do som, o buzzer vibra através de um oscilador. Essa oscilação é determinada por uma frequência, que por sua vez define um som específico.
@@ -26,5 +24,3 @@ U1 			→		1	   Arduino Uno R3
 PIR1		→		1	  -0.7870370370379192 , -154.31178810804266 , -221.15528585432014  Sensor PIR
 PIEZO1		 →		  1	 	Piezo
 R1			→		1	   220 Ω Resistor
-
-<img href ="sensor_de_presença_e_buzzer/Projeto Sensor de Presença e Buzzer - 10_09.png"/>
